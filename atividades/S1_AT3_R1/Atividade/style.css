@@ -1,0 +1,21 @@
+body {
+    color: hsl(0, 0%, 0%);
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    color: #a8268c;
+}
+
+h2 {
+    color: #e44ab6;
+}
+
+p {
+    color: #580d35;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #f995d9;
+}
