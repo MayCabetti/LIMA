@@ -1,0 +1,18 @@
+ body {
+        background-color: lightyellow;
+    }
+
+    h1 {
+        color: #8e4200;
+        font-size: 85px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+    p {
+        color: #694b1f;
+        font-size: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        }
+
+/* Para criar uma classe (class) use . antes do nome
+/* Para criar um id use # antes do nome 
