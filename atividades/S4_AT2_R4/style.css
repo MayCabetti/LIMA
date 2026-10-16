@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    color: #00E5FF;
+}
+
+h2 {
+    color: #bcf8ff;
+}
+
+h3 {
+    color: #a57eff;
+}
+
+li {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #7c51df
+    ;
+}
